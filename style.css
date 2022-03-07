@@ -1,4 +1,6 @@
-
+h1, body {
+  font-family: 'Short Stack', cursive;
+}
 #gallery{
   -webkit-column-count:4;
   -moz-column-count:4;
